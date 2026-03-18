@@ -1,0 +1,6 @@
+[submodule "dependencies/CAPD"]
+	path = dependencies/CAPD
+	url = https://github.com/Trenek/CAPD
+[submodule "dependencies/raylib"]
+	path = dependencies/raylib
+	url = https://github.com/raysan5/raylib
